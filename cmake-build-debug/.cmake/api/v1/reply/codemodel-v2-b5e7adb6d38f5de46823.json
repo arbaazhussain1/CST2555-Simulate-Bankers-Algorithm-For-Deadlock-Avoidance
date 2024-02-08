@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Coursework_1_Operating_Systems_Simulate_Bankers_algorithm_for_Deadlock_Avoidance_using_C___or_Bash__Arbaaz_Ali_Hussain_M00872279_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Coursework_1_Operating_Systems_Simulate_Bankers_algorithm_for_Deadlock_Avoidance_using_C___or_Bash__Arbaaz_Ali_Hussain_M00872279_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Coursework_1_Operating_Systems_Simulate_Bankers_algorithm_for_Deadlock_Avoidance_using_C___or_Bash__Arbaaz_Ali_Hussain_M00872279_-Debug-586ca54475918f2b5416.json",
+					"name" : "Coursework_1_Operating_Systems_Simulate_Bankers_algorithm_for_Deadlock_Avoidance_using_C___or_Bash__Arbaaz_Ali_Hussain_M00872279_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/arbaazhussain/Library/CloudStorage/OneDrive-MiddlesexUniversity/2023-24 BSc Computer Science Year 2/2023-24 CST2555 Operating Systems and Computer Networks/Week 13/Coursework 1 Operating Systems Simulate Bankers algorithm for Deadlock Avoidance using C++ or Bash. Arbaaz Ali Hussain M00872279 /cmake-build-debug",
+		"source" : "/Users/arbaazhussain/Library/CloudStorage/OneDrive-MiddlesexUniversity/2023-24 BSc Computer Science Year 2/2023-24 CST2555 Operating Systems and Computer Networks/Week 13/Coursework 1 Operating Systems Simulate Bankers algorithm for Deadlock Avoidance using C++ or Bash. Arbaaz Ali Hussain M00872279 "
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
